@@ -69,7 +69,7 @@ body {
     margin-bottom: 60px;
     font-size: 30px;
 }
-.about-me__introduction {
+#about-me p.about-me__introduction {
     font-family: "Spectral";
     font-weight: 800;
     font-style: italic;
